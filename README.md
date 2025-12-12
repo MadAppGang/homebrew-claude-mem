@@ -1,21 +1,21 @@
-# Homebrew Tap for claude-mem
+# Homebrew Tap for claudemem
 
 Local code indexing with semantic search for Claude Code.
 
 ## Installation
 
 ```bash
-brew tap MadAppGang/claude-mem
-brew install --cask claude-mem
+brew tap MadAppGang/claudemem
+brew install --cask claudemem
 ```
 
 ## Usage
 
 ```bash
-claude-mem init          # Set up API key
-claude-mem index         # Index your codebase
-claude-mem search "..."  # Search code
-claude-mem --mcp         # Start MCP server
+claudemem init          # Set up API key
+claudemem index         # Index your codebase
+claudemem search "..."  # Search code
+claudemem --mcp         # Start MCP server
 ```
 
 ## Links
