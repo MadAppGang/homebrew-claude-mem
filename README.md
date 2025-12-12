@@ -20,5 +20,5 @@ claude-mem --mcp         # Start MCP server
 
 ## Links
 
-- [GitHub Repository](https://github.com/MadAppGang/claude-mem)
-- [Documentation](https://github.com/MadAppGang/claude-mem#readme)
+- [GitHub Repository](https://github.com/MadAppGang/claudemem)
+- [Documentation](https://github.com/MadAppGang/claudemem#readme)
