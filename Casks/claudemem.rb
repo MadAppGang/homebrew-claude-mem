@@ -1,14 +1,14 @@
 cask "claudemem" do
-  version "0.20.1"
+  version "0.21.0"
 
   on_arm do
     url "https://github.com/MadAppGang/claudemem/releases/download/v#{version}/claudemem-darwin-arm64"
-    sha256 "22afaf095a353dc9a10476497e630613fb032559f495a64ba6ed9bb5fe245688"
+    sha256 "f873dd513b76d0152fdb598c4796a1bd4e940c36ae2b5e704eab1cf3b897e30a"
   end
 
   on_intel do
     url "https://github.com/MadAppGang/claudemem/releases/download/v#{version}/claudemem-darwin-x64"
-    sha256 "83a7c59d066dc91f897e8cb247c16ea507903cc6064e44e6b13891e116c9b6b7"
+    sha256 "d2efe771d37856c5fc1823ac3bfefe9151793a8477a3a01f5f0a4e1de1673057"
   end
 
   name "claudemem"
