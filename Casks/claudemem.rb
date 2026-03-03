@@ -1,5 +1,5 @@
 cask "claudemem" do
-  version "0.21.3"
+  version "0.21.4"
 
   on_arm do
     url "https://github.com/MadAppGang/claudemem/releases/download/v#{version}/claudemem-darwin-arm64"
